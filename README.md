@@ -14,7 +14,7 @@ Developed by **SwapITLab**, this project highlights our ability to deliver custo
 
 ## 🚀 Live Website
 
-[🔗 Visit Orsa-Arts Online Store](https://orsa-arts.com)
+<a href="https://orsa-arts.com" target="_blank">🔗 Visit Orsa-Arts Online Store</a>
 
 ## 🖼️ Store Images
 
